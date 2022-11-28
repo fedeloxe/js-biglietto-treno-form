@@ -1,0 +1,10 @@
+Calcolare il costo del biglietto in base alla distanza da percorrere e all'età del passeggero 
+
+1- Tramite form chiedere all'utente le segenti info:
+   1.1- km da percorrere 
+   1.2   età del passeggereo 
+2- calcolare il costo del biglietto moltiplicando i km per il costo (0.21 € al km)
+3- applicare sconti 
+   3.1 se il passeggero é under 18 applica sconto 20%
+   3.2 se il passeggero é over 65 applica sconto 40%
+4- riprodurre a schermo il risultato 
