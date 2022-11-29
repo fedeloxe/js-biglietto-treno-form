@@ -26,6 +26,8 @@ bottone.addEventListener('click', function(){
 
     firstprice = km * '0.21'
 
+    finalPrice = firstprice
+
 
     //applico sconti 
     if(eta < 18){
@@ -43,7 +45,6 @@ bottone.addEventListener('click', function(){
     }
 
     else{
-        finalPrice = firstprice
      
     }
 
